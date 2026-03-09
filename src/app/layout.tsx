@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   description:
     "글자수 세기, 한영 변환, 텍스트 비교 등 유용한 텍스트 도구를 무료로 사용하세요.",
   keywords: ["글자수 세기", "한영 변환", "텍스트 도구", "글자수 카운터"],
+  verification: {
+    google: "rBhNrr7WAhxWSwWEnD7orcp4eYNTIgkF2-2-XqqStjM",
+  },
 };
 
 export default function RootLayout({
