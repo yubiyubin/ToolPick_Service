@@ -22,7 +22,7 @@ export default function Header() {
 
   return (
     <header className="border-b border-border bg-surface dark:glass dark:neon-border dark:border-b-0 dark:border-b dark:border-primary/15 transition-premium">
-      <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div className="max-w-5xl mx-auto px-3 md:px-4 py-3 flex items-center justify-between gap-2">
         <Link
           href="/"
           className="text-3xl font-bold text-primary-dark/85 dark:neon-text shrink-0 transition-premium"

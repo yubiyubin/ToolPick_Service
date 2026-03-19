@@ -37,6 +37,10 @@ export default function RootLayout({
           name="naver-site-verification"
           content="ea9322a414becac2d0089b3e3f990f8116cb2aae"
         />
+        <meta
+          name="naver-site-verification"
+          content="b3789da6217c590f0fb2a27d524f7e591d089c64"
+        />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-BEMRGMHDPD"
           strategy="afterInteractive"
