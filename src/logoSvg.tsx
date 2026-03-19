@@ -1,6 +1,6 @@
 export default function Logo() {
   return (
-    <svg viewBox="0 0 230 52" width="230" height="52">
+    <svg viewBox="0 0 230 52" className="w-[140px] h-auto md:w-[230px]">
       <style>{`
         .logo-tool { fill: var(--c-text-primary); }
         .logo-pick { fill: var(--c-primary-dark); }
